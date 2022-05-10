@@ -1,4 +1,4 @@
-let respuesta=""
+
 let respuesta=""
 
 function hanoi(discos,origen,final) {
